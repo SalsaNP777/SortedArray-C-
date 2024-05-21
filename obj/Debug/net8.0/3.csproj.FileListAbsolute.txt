@@ -1,0 +1,15 @@
+D:\code_dotnet\BankIndonesia\3\bin\Debug\net8.0\3.exe
+D:\code_dotnet\BankIndonesia\3\bin\Debug\net8.0\3.deps.json
+D:\code_dotnet\BankIndonesia\3\bin\Debug\net8.0\3.runtimeconfig.json
+D:\code_dotnet\BankIndonesia\3\bin\Debug\net8.0\3.dll
+D:\code_dotnet\BankIndonesia\3\bin\Debug\net8.0\3.pdb
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\3.dll
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\refint\3.dll
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\3.pdb
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\ref\3.dll
+D:\code_dotnet\BankIndonesia\3\obj\Debug\net8.0\3.sourcelink.json
